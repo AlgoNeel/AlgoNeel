@@ -1,26 +1,48 @@
-<h1 align="center">Hey there, I'm Swapneel Das</h1>
-<h3 align="center">A passionate Programmer from Bangladesh</h3>
+# 🌟 Swapneel Das  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=algoneel&label=Profile%20views&color=0e75b6&style=flat" alt="algoneel" /> </p>
+## 📈 SMC Trader | Market Analyst  
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=algoneel" alt="algoneel" /></a> </p>
+### 📜 About Me  
+I am a **Smart Money Concepts (SMC) Trader**, dedicated to decoding market movements through institutional trading strategies. My expertise lies in understanding **market structure, liquidity zones, and order flow**, allowing me to anticipate high-probability trade setups. With a disciplined approach to risk management and a deep focus on trading psychology, I help traders develop a mindset that aligns with institutional strategies.  
 
-<p align="left"> <a href="https://twitter.com/swapneel_das__" target="blank"><img src="https://img.shields.io/twitter/follow/swapneel_das__?logo=twitter&style=for-the-badge" alt="swapneel_das__" /></a> </p>
+> _"Trading is not about predicting the future; it's about reacting to the present with a structured plan."_  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/swapneel_das__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="swapneel_das__" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/swapneel_das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swapneel_das" height="30" width="40" /></a>
-<a href="https://fb.com/swapneeldas_account" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="swapneeldas_account" height="30" width="40" /></a>
-<a href="https://instagram.com/swapneel_das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="swapneel_das" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/swapneeldasofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="swapneeldasofficial" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+## 🏆 What Defines a Pro SMC Trader?  
+✅ **Market Structure Mastery** – Understanding BOS, CHoCH, and internal/external ranges  
+✅ **Liquidity & Order Flow** – Tracking institutional footprints, order blocks, and mitigation zones  
+✅ **High-Risk Reward Strategies** – Identifying key POIs with low drawdown  
+✅ **Advanced Risk Management** – Managing capital efficiently for long-term consistency  
+✅ **Trading Psychology** – Staying disciplined and unemotional in every market condition  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=algoneel&show_icons=true&locale=en&layout=compact" alt="algoneel" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=algoneel&show_icons=true&locale=en" alt="algoneel" /></p>
+## 🔥 My Trading Edge  
+🔹 **Institutional Liquidity Zones** – Spotting Smart Money footprints  
+🔹 **Precision Entries & Exits** – No guesswork, just calculated setups  
+🔹 **High Probability POIs** – Trading only the best setups with asymmetric risk  
+🔹 **Liquidity Engineering** – Understanding stop hunts and market manipulation  
+🔹 **Time & Price Theory** – Knowing when and where to execute trades  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=algoneel&" alt="algoneel" /></p>
+---
+
+## 🕒 Trading Sessions  
+I focus my trading exclusively on the **New York** and **London sessions**, with a primary focus on the **EUR/USD** currency pair.
+
+---
+
+## 📞 Connect with Me  
+  
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/swapneeldas.account)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/swapneel_das) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/swapneel_das__) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swapneel_das)  
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/swapneeldasofficial)  
+
+---
+
+## 🎯 The SMC Trader's Motto  
+**"Trade with precision. Follow the liquidity. Think like an institution."**  
+
+🚀 **Let’s master the markets together!**
