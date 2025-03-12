@@ -59,5 +59,3 @@ Want to collaborate, discuss tech, or just say hi? Connect with me on:
 
 ## 🚀 Let's Build Something Awesome!
 I'm always open to new opportunities, collaborations, and projects. If you're interested in working together or just want to chat about web development, feel free to reach out! 😊
-```
-
