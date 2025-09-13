@@ -30,5 +30,3 @@ I’m passionate about **building modern, scalable web applications** and contin
 ▶️ [YouTube](https://www.youtube.com/@SwapneelDasOfficial)
 
 ⭐ **"Discipline is suffering now for ease later."**
-
-Would you like me to make this **minimal and professional** (like a tech-focused GitHub intro) or keep it a bit **personal + motivational** (showing your trading + journey side too)?
